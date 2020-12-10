@@ -11,7 +11,7 @@
   color: var(--white);
   background: black;
   max-width: 100%;
-  margin: -1.35rem 0rem;
+  margin: -1.35rem;
   padding: 1rem;
   min-height: 100vh;
 }
@@ -29,6 +29,10 @@
 .App-btn {
   font-family: "Montserrat", sans-serif;
   border-left: 0;
+}
+
+.Form-div {
+  margin: 2rem 0;
 }
 
 button {

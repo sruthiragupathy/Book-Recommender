@@ -90,7 +90,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Book Recommender</h1>
-      <div>
+      <div class="Form-div">
         <input
           placeholder="Type any genre...."
           onChange={inputChangeHandler}
